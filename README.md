@@ -43,7 +43,7 @@ A modern, responsive website for AJ Tech Solutions built with HTML, CSS, and Jav
 
 - **Email**: info.ajtechsolutions@gmail.com
 - **Phone**: +91 93636 65235
-- **Website**: [Coming Soon]
+- **Website**: https://ajtechsolutions.netlify.app/
 
 ---
 
