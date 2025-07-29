@@ -1,0 +1,20 @@
+{
+  "rules": {
+    "whyChooseUs": {
+      ".read": true,
+      ".write": "auth != null"
+    },
+    "team": {
+      ".read": true,
+      ".write": "auth != null"
+    },
+    "projects": {
+      ".read": true,
+      ".write": "auth != null"
+    },
+    "careers": {
+      ".read": true,
+      ".write": "auth != null"
+    }
+  }
+}
